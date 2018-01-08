@@ -20,6 +20,10 @@ Once I had my idea in mind, it was time to start organizing.  I was so thankful 
 
 At first, I only planned to have the author, rating, and link to puchase the book, but I started to have so much fun with all of the useful information that Amazon gave, I couldn't help but add in more.  This project was one of the most challenging and rewarding things I've done so far.  I was so excited when my CLI gem worked correctly for the first time and now that I'm done with this Gem, I keep thinking of others that I can make for fun!  
 
+```<iframe width="560" height="315" src="https://www.youtube.com/embed/ActvdYvDqmA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+```
+
 
 
 

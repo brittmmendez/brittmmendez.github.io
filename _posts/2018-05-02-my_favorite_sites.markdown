@@ -5,9 +5,9 @@ date:       2018-05-02 13:27:13 -0400
 permalink:  my_favorite_sites
 ---
 
-Deciding to become a developer was one of the biggest leaps I've taken so far in life! After making this decision, I quickly realized that another big decision I've had o make is where I wanted to start.  For example, want languages to start with.  So far, these have been the bests sites that I've used to get started:
+Deciding to become a developer was one of the biggest leaps I've taken so far in life! After making this decision, I quickly realized that there was another big decision I'd have to make -> where to start??  For example, what languages to start with.  So far, these have been the bests sites that I've used to get started:
 
-* FreeCodeCamp - Really popular site where people go to start learning how to code. It has a curriculum map that starts off with the basics and you can build your way up to more advanced stuff - all free! [https://www.freecodecamp.org/signin](http://)
+* FreeCodeCamp - Really popular site where people go to start learning how to code. It has a curriculum map that starts off with the basics and you can build your way up to more advanced stuff - all free! [](http://www.freecodecamp.org/signin)
 
 * CodeAcademy - You can pay to do their intensive programs, or you can start any of their courses for free. I recommend starting with html and css, but it doesn't give as much content as #1. https://www.codecademy.com/catalog/subject/web-development. 
 
